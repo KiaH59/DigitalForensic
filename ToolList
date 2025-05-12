@@ -1,1 +1,2 @@
-1. Exiftool : tool get info file (anh,...)
+1. Exiftool : tool get info file (image,...)
+  - Simple command: exiftool filename.ext
