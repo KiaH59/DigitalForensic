@@ -1,2 +1,4 @@
 1. Exiftool : tool get info file (image,...)
   - Simple command: exiftool filename.ext
+2. Reverse Image Search 
+  - Use online tool/web to find more info about image (location,...)
