@@ -1,4 +1,9 @@
-1. Exiftool : tool get info file (image,...)
+1. Exiftool
+  - Get info file (image,...)
   - Simple command: exiftool filename.ext
 2. Reverse Image Search 
   - Use online tool/web to find more info about image (location,...)
+3. Steghide
+  - Get embed file in other file
+  - Command: steghide extract -sf filename.ext
+4.
