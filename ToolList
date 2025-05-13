@@ -6,4 +6,9 @@
 3. Steghide
   - Get embed file in other file
   - Command: steghide extract -sf filename.ext
-4.
+4.PhotoRec + testdisk_win
+  - Digital Picture and File Recovery
+  - View disk info, get file from .dd
+  - Dumb file, write boot, list directory and file (disk partition)
+5. fcrackzip
+  - Crack password .zip file 
